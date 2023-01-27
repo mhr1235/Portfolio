@@ -5,11 +5,26 @@ body {
   margin: 2em;
   width: 100%;
   height: 100%;
+  background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+a{
+
+  font-size: 25px;
+  color: rebeccapurple;
+}
+
+p{
+
+  font-family: 'Pacifico', cursive;
 }
 
 h1 {
-  color: #373fff;
-  font-size: 18pt;
+ 
+   color: #3FD57B;
+  font-size: 48pt;
+  font-family: 'Bebas Neue', cursive;
 }
 .special-h2{
   margin-top:0;
@@ -96,11 +111,11 @@ li.bullet {
 }
 
 li.bullet a {
-  color: blue;
+  color: purple;
 }
 
 li a {
-  color: black;
+  color: purple;
   /*   text-decoration: none; */
 }
 
